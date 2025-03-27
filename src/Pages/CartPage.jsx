@@ -4,7 +4,7 @@ import { Button, Card, CardContent } from "../components/ui";
 import '../App.css';
 import qrcode from "../assets/qrcode.png";
 
-const API_KEY = "076aa98c157ee3370fac71ee351288bd";
+const API_KEY = "your_tmdb_api_key";
 const API_URL = "https://api.themoviedb.org/3/search/movie";
 const POPULAR_URL = "https://api.themoviedb.org/3/movie/popular";
 const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500";
